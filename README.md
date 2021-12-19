@@ -57,14 +57,15 @@ graduate.” Test this claim with the data given to you.
 Specialisation depend on the Gender?)
 
 Solution:
+### Testing if software engineers, hardware engineers and associate engineers earn upto 2.5 - 3 lakhs
 
 Plotting swarmplot and boxplot for a better visual observation
 
 ![swarmplot_question](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/swarmplot_question.png)
 
-!{boxplot_question](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/boxplot_question.png)
+![boxplot_question](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/boxplot_question.png)
 
-** Hypothesis Testing **:
+**Hypothesis Testing**:
 
 Null Hypothesis: Ho <= Rs 300000
 
@@ -133,7 +134,7 @@ Reject Null Hypothesis
 From the hypothesis test,after rejecting the NULL HYPOTHESIS $H_o$, we can conclude that after doing your Computer Science Engineering if one take up jobs as a Programming Analyst, Software Engineer,
 Hardware Engineer and Associate Engineer, he or she can earn ***more than 3 lakhs*** as a fresh graduate.
 
-Relationship between Gender and Specialization
+### Relationship between Gender and Specialization
 
 ```
 # Plotting the gender and specialization for visual observation
