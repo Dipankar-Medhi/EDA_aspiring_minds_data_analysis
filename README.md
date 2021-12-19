@@ -18,32 +18,33 @@ This repository contains the data analysis notebook of the aspiring minds employ
 ### Univariate Analysis
 Histogram
 
-![histogram]
+![histogram](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/histogram.png)
 ---
 
 Boxplots
 
-![boxplot]
+![boxplot](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/boxplots.png)
 
 ### Bivariate Analysis
 
 Pairplot
 
-![pairplot]
+![pairplot](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/pairplot.png)
 
 Hexplots
 
-![Hexplots]
+![Hexplots](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/hexplot.png)
 
 Scatterplot
 
-![scatterplot]
+![scatterplot](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/scatterplot.png)
 
 ### Analysis of Categorical features
 
 Boxplots
 
-![boxplotsofcat]
+![boxplotsofcat](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/cat_boxplot.png)
+![boxpltcat2](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/cat_boxplot2.png)
 
 ## Research Question
 
@@ -59,9 +60,9 @@ Solution:
 
 Plotting swarmplot and boxplot for a better visual observation
 
-![swarmplot_question]
+![swarmplot_question](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/swarmplot_question.png)
 
-!{boxplot_question]
+!{boxplot_question](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/boxplot_question.png)
 
 ** Hypothesis Testing **:
 
@@ -140,7 +141,7 @@ plt.figure(figsize=(15,18))
 sns.histplot(y=df.Specialization, hue=df.Gender)
 plt.show()
 ```
-![relation_gender_spec]
+![relation_gender_spec](https://github.com/Dipankar-Medhi/EDA_aspiring_minds_data_analysis/blob/main/images/relation_gender_spec.png)
 
 Chi-Square Test:
 
